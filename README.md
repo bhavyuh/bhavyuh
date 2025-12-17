@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi 👋 I'm Bhavya
 
-<!--
-**bhavyuh/bhavyuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year **BCA student** learning **full-stack web development**.  
+I enjoy building clean, simple websites and understanding how things work behind the scenes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm doing right now
+- Learning **C programming**
+- Improving logic and problem-solving skills
+
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, Bootstrap 5, Tailwind CSS
+- **Programming:** C
+- **Tools:** Git, GitHub, VS Code
+- **Deployment:** GitHub Pages
+
+---
+
+### 📌 Projects
+- **Portfolio Website** – Personal portfolio made for academic practice  
+- **iLanding Clone** – Bootstrap-based landing page project  
+- **Crypgo Clone** – Tailwind CSS practice project  
+
+---
+### 😄 Pronouns
+He/Him
