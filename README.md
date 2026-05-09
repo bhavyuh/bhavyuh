@@ -1,4 +1,4 @@
-## Hi 👋 I'm Bhavya
+## Hey 👋 Bhavya here!
 
 I'm currently pursuing my Bachelor's in Computer Applications and learning **Full-stack Web Development**.  
 I enjoy building clean, simple websites and understanding how things work behind the scenes.
@@ -7,7 +7,6 @@ I enjoy building clean, simple websites and understanding how things work behind
 
 ### 🌱 What I'm doing right now
 - Learning **React**
-
 
 ---
 
@@ -21,3 +20,4 @@ I enjoy building clean, simple websites and understanding how things work behind
 
 ### 📌 Projects
 - **Age Calculator** – A modern themed and minimal looking age calculator.
+- **To-Do List** – A simple yet uselful dark themed to-do list app.
