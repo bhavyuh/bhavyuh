@@ -11,7 +11,7 @@ I enjoy building clean, simple websites and understanding how things work behind
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, Bootstrap 5, Tailwind CSS
+- **Frontend:** HTML, CSS, JS, Bootstrap 5, Tailwind CSS
 - **Programming:** JavaScript, C, C++
 - **Tools:** Git, GitHub, VS Code
 - **Deployment:** GitHub Pages, Vercel
