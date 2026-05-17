@@ -1,23 +1,56 @@
-## Hey 👋 Bhavya here!
+# Hey 👋 Bhavya here!
 
-I'm currently pursuing my Bachelor's in Computer Applications and learning **Full-stack Web Development**.  
-I enjoy building clean, simple websites and understanding how things work behind the scenes.
-
----
-
-### 🌱 What I'm doing right now
-- Learning **React**
+I'm a BCA student at IGNOU and a Front-End Web Developer focused on building clean, responsive, and user-friendly websites. Currently learning React.js while building projects and improving my practical development skills.
 
 ---
 
-### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JS, Bootstrap 5, Tailwind CSS
-- **Programming:** JavaScript, C, C++
-- **Tools:** Git, GitHub, VS Code
-- **Deployment:** GitHub Pages, Vercel
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap 5
+* Tailwind CSS
+* React.js *(currently learning)*
+
+### Programming Languages
+
+* C
+* C++
+* JavaScript
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Vercel
+* GitHub Pages
 
 ---
 
-### 📌 Projects
-- **Age Calculator** – A modern themed and minimal looking age calculator.
-- **To-Do List** – A simple yet uselful dark themed to-do list app.
+## 📌 Featured Projects
+
+### 🔹 Age Calculator
+
+A modern and responsive age calculator built using HTML, CSS, and JavaScript.
+
+### 🔹 To-Do List App
+
+A minimal dark-themed task management application with a clean UI.
+
+### 🔹 Portfolio Website
+
+Personal portfolio website showcasing my projects, skills, and learning journey.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: Add your LinkedIn link here
+* Portfolio: Add your portfolio link here
+* Email: Add your professional email here
+
+---
