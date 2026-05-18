@@ -1,27 +1,27 @@
-# Hey 👋 Bhavya here!
+# Summary
 
-I'm a BCA student at IGNOU and a Front-End Web Developer focused on building clean, responsive, and user-friendly websites. Currently learning React.js while building projects and improving my practical development skills.
+I'm a Front-End Web Developer and BCA student at IGNOU focused on building clean, responsive, and user-friendly websites. Currently learning React.js while building projects and improving my practical development skills.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
 * HTML5
 * CSS3
 * JavaScript
+* * Tailwind CSS
 * Bootstrap 5
-* Tailwind CSS
 * React.js *(currently learning)*
 
 ### Programming Languages
 
+* JavaScript
 * C
 * C++
-* JavaScript
 
-### Tools & Platforms
+### Tools
 
 * Git
 * GitHub
