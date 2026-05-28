@@ -5,7 +5,7 @@ I'm a Front-End Web Developer and a BCA student at IGNOU. I enjoy creating moder
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,vercel,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,git,github,c,cpp" />
 </p>
 
 ## Connect With Me
